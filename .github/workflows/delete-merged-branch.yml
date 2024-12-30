@@ -1,4 +1,4 @@
-name: Mark stale issues and pull requests
+name: Delete Merged Pull Requests
 
 on:
   pull_request:
